@@ -1,4 +1,4 @@
-# Elementary-Python-Colab-Tutorial
+# Elementary Python Colab Tutorial
 
 This is a repository for a basic Python Colab Tutorial, prepared by Hasan Pourmahmood, needed for course "Mathematical Foundation of Data Analyssi" taught by professor Jeff Phillips in School of Computaing at University of Utah. 
 
